@@ -9,7 +9,7 @@ import (
 
 	"github.com/ThomsonReutersEikon/go-ntlm/ntlm"
 )
-
+//AAskldjalk;AAA//
 func Test_AuthenticationSuccess(t *testing.T) {
 	client := http.Client{
 		Transport: &NtlmTransport{
